@@ -1,12 +1,12 @@
 require '../helper'
 
-describe 'hello', ->
+describe 'shiranakatta', ->
   beforeEach ->
-    @script = require('../../src/scripts/hello')
+    @script = require('../../src/scripts/shiranakatta')
 
-  describe 'receive "@sushi hello"', ->
+  describe 'receive "知らなかった　そんなの…"', ->
     beforeEach (done) ->
-      @message = '@sushi hello'
+      @message = '知らなかった　そんなの…'
       @driver
         .start
           scripts: [@script]
@@ -17,21 +17,21 @@ describe 'hello', ->
           done()
         , done
 
-    it 'send "Hello!"', (done) ->
+    it 'send "http://s3-ap-northeast-1.amazonaws.com/shiranakatta/sonnano.jpg"', (done) ->
       @driver
         .receiveMessage @bouzuya, @message
         .then (e) ->
           expect e.name
             .to.equal 'send'
           expect e.strings[0]
-            .to.equal 'Hello!'
+            .to.equal 'http://s3-ap-northeast-1.amazonaws.com/shiranakatta/sonnano.jpg'
         .then ->
           done()
         , done
 
-  describe 'receive "@sushi hello!!!"', ->
+  describe 'receive "しらなかった そんなの"', ->
     beforeEach (done) ->
-      @message = '@sushi hello!!!'
+      @message = 'しらなかった そんなの'
       @driver
         .start
           scripts: [@script]
@@ -42,21 +42,21 @@ describe 'hello', ->
           done()
         , done
 
-    it 'send no message', (done) ->
+    it 'send "http://s3-ap-northeast-1.amazonaws.com/shiranakatta/sonnano.jpg"', (done) ->
       @driver
         .receiveMessage @bouzuya, @message
-        .then ->
-          done new Error('failure')
-        , (e) ->
-          expect e.message
-            .to.equal 'timeout'
+        .then (e) ->
+          expect e.name
+            .to.equal 'send'
+          expect e.strings[0]
+            .to.equal 'http://s3-ap-northeast-1.amazonaws.com/shiranakatta/sonnano.jpg'
         .then ->
           done()
         , done
 
-  describe 'receive "@bouzuya hello"', ->
+  describe 'receive "しらなかった"', ->
     beforeEach (done) ->
-      @message = '@bouzuya hello'
+      @message = 'しらなかった'
       @driver
         .start
           scripts: [@script]

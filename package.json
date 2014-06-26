@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "A Hubot for FaithCreates Inc.",
   "scripts": {
-    "start": "hubot -n sushi -a shell -r ./node_modules/hubot/src/scripts/",
+    "start": "hubot -n sushi -a slack -r ./node_modules/hubot/src/scripts/",
     "test": "mocha --recursive --compilers coffee:coffee-script/register --reporter spec"
   },
   "repository": {
