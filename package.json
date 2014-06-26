@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "A Hubot for FaithCreates Inc.",
   "scripts": {
-    "start": "hubot -n sushi -a slack -r ./node_modules/hubot/src/scripts/"
+    "start": "hubot -n sushi -a shell -r ./node_modules/hubot/src/scripts/",
+    "test": "mocha --recursive --compilers coffee:coffee-script/register --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,13 @@
     "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc",
     "hubot-slack": "2.1.0",
     "hubot": "2.7.5"
+  },
+  "devDependencies": {
+    "chai": "1.9.1",
+    "hubot-mock-adapter": "1.0.0",
+    "mocha": "1.20.1",
+    "q": "1.0.1",
+    "sinon-chai": "2.5.0",
+    "sinon": "1.10.2"
   }
 }
