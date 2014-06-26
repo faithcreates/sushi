@@ -34,7 +34,7 @@ class RobotDriver
     @robot.shutdown()
     Promise.resolve()
 
-  sendMessage: (envelope, message) ->
+  receiveMessage: (envelope, message) ->
     throw new Error('call receiveMessage() after start()') unless @started
     promise = new Promise (resolve, reject) =>
       setTimeout ->

@@ -19,7 +19,7 @@ describe 'hello', ->
 
     it 'send "Hello!"', (done) ->
       @driver
-        .sendMessage @bouzuya, @message
+        .receiveMessage @bouzuya, @message
         .then (e) ->
           expect e.name
             .to.equal 'send'
@@ -44,7 +44,7 @@ describe 'hello', ->
 
     it 'send no message', (done) ->
       @driver
-        .sendMessage @bouzuya, @message
+        .receiveMessage @bouzuya, @message
         .then ->
           done new Error('failure')
         , (e) ->
@@ -69,7 +69,7 @@ describe 'hello', ->
 
     it 'send no message', (done) ->
       @driver
-        .sendMessage @bouzuya, @message
+        .receiveMessage @bouzuya, @message
         .then ->
           done new Error('failure')
         , (e) ->
