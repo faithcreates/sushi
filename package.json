@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "coffee-script": "1.7.1",
+    "hubot-nonomulish": "git://github.com/bouzuya/hubot-nonomulish",
     "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc",
     "hubot-slack": "2.1.0",
     "hubot": "2.7.5"
