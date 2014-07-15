@@ -1,1 +1,6 @@
-["hubot-backlog-summary", "hubot-sakagemc", "hubot-gengo"]
+[
+  "hubot-backlog-summary",
+  "hubot-gengo",
+  "hubot-lgtm",
+  "hubot-sakagemc"
+]
