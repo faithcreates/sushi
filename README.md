@@ -1,6 +1,6 @@
 # Sushi
 
-A [Hubot][hubot] for [Faithcreates Inc][faithcreates].
+A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
 
 ## Configuration
 
@@ -20,4 +20,4 @@ A [Hubot][hubot] for [Faithcreates Inc][faithcreates].
     $ export HUBOT_MERGE_PR_TIMEOUT='30000'
 
 [hubot]: https://hubot.github.com/
-[faithcreates]: http://www.faithcreats.co.jp/
+[faithcreates]: http://www.faithcreates.co.jp/
