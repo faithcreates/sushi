@@ -2,6 +2,7 @@
   "hubot-backlog-summary",
   "hubot-gengo",
   "hubot-lgtm",
+  "hubot-list-pr",
   "hubot-merge-pr",
   "hubot-omikuji",
   "hubot-sakagemc"

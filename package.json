@@ -19,14 +19,15 @@
   "license": "MIT",
   "dependencies": {
     "coffee-script": "1.7.1",
+    "hubot": "2.7.5",
     "hubot-backlog-summary": "git://github.com/bouzuya/hubot-backlog-summary.git#0.1.1",
     "hubot-gengo": "git://github.com/bouzuya/hubot-gengo.git#0.1.1",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm.git#0.1.0",
+    "hubot-list-pr": "git://github.com/bouzuya/hubot-list-pr.git#0.1.1",
     "hubot-merge-pr": "git://github.com/bouzuya/hubot-merge-pr.git#0.2.1",
     "hubot-omikuji": "git://github.com/bouzuya/hubot-omikuji.git#0.1.0",
     "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc.git#0.2.1",
-    "hubot-slack": "2.1.0",
-    "hubot": "2.7.5"
+    "hubot-slack": "2.1.0"
   },
   "devDependencies": {
     "chai": "1.9.1",
