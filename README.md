@@ -16,8 +16,13 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ export HUBOT_BACKLOG_SUMMARY_USE_HIPCHAT='...'
 
     $ # for hubot-merge-pr
+    $ export HUBOT_MERGE_PR_DEFAULT_USERNAME='faithcreates'
     $ export HUBOT_MERGE_PR_TOKEN='...'
     $ export HUBOT_MERGE_PR_TIMEOUT='30000'
+
+    $ # for hubot-list-pr
+    $ export HUBOT_LIST_PR_DEFAULT_USERNAME='faithcreates'
+    $ export HUBOT_LIST_PR_TOKEN='...'
 
 [hubot]: https://hubot.github.com/
 [faithcreates]: http://www.faithcreates.co.jp/
