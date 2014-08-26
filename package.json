@@ -20,7 +20,7 @@
   "dependencies": {
     "coffee-script": "1.7.1",
     "hubot": "2.7.5",
-    "hubot-backlog-activity": "git://github.com/bouzuya/hubot-backlog-activity.git#2.0.1",
+    "hubot-backlog-activity": "git://github.com/bouzuya/hubot-backlog-activity.git#2.0.2",
     "hubot-backlog-issue-preview": "git://github.com/bouzuya/hubot-backlog-issue-preview.git#2.0.1",
     "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#0.1.0",
     "hubot-backlog-summary": "git://github.com/bouzuya/hubot-backlog-summary.git#0.1.2",
