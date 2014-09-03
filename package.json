@@ -22,7 +22,7 @@
     "hubot": "2.7.5",
     "hubot-backlog-activity": "git://github.com/bouzuya/hubot-backlog-activity.git#0.1.0",
     "hubot-backlog-issue-preview": "git://github.com/bouzuya/hubot-backlog-issue-preview.git#2.0.1",
-    "hubot-backlog-report": "git://github.com/bouzuya/hubot-backlog-report.git#1.0.0",
+    "hubot-backlog-report": "git://github.com/bouzuya/hubot-backlog-report.git#2.0.0",
     "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#0.1.0",
     "hubot-backlog-summary": "git://github.com/bouzuya/hubot-backlog-summary.git#0.1.2",
     "hubot-gengo": "git://github.com/bouzuya/hubot-gengo.git#0.1.1",
