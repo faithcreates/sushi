@@ -1,6 +1,7 @@
 [
   "hubot-backlog-activity",
   "hubot-backlog-issue-preview",
+  "hubot-backlog-report",
   "hubot-backlog-status",
   "hubot-backlog-summary",
   "hubot-gengo",
