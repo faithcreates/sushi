@@ -1,5 +1,6 @@
 [
   "hubot-backlog-activity",
+  "hubot-backlog-burndownchart",
   "hubot-backlog-issue-preview",
   "hubot-backlog-report",
   "hubot-backlog-status",
