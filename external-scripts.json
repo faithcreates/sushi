@@ -5,6 +5,7 @@
   "hubot-backlog-report",
   "hubot-backlog-status",
   "hubot-backlog-summary",
+  "hubot-backlog-watch-users",
   "hubot-gengo",
   "hubot-lgtm",
   "hubot-list-pr",
