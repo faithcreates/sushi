@@ -73,6 +73,9 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ HUBOT_PR_TIMEOUT='300000'
     $ HUBOT_PR_TOKEN='...'
 
+    $ # for hubot-redis-brain
+    $ REDIS_URL='...'
+
     $ # for hubot-sakagemc
     $ HUBOT_SAKAGEMC_FLICKR_API_KEY='...'
     $ HUBOT_SAKAGEMC_FLICKR_SECRET='...'
