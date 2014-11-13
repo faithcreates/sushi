@@ -37,9 +37,10 @@
     "hubot-nomulish": "git://github.com/emanon001/hubot-nomulish.git#0.1.1",
     "hubot-omikuji": "git://github.com/bouzuya/hubot-omikuji.git#0.1.0",
     "hubot-pr-fc": "https://github.com/bouzuya/hubot-pr-fc/archive/3.0.1.tar.gz",
-    "hubot-redis-brain": "0.0.2",
-    "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc.git#0.2.1",
-    "hubot-slack": "2.2.0"
+    "hubot-sakagemc": "https://github.com/bouzuya/hubot-sakagemc/archive/1.0.1.tar.gz",
+    "hubot-scripts": "^2.5.16",
+    "hubot-slack": "2.2.0",
+    "mongodb": "^1.4.19"
   },
   "devDependencies": {
     "chai": "1.9.1",

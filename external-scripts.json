@@ -1,4 +1,5 @@
 [
+  "hubot-auth",
   "hubot-backlog-activity",
   "hubot-backlog-assign",
   "hubot-backlog-burndownchart",
