@@ -12,8 +12,8 @@
   "hubot-google-images",
   "hubot-help",
   "hubot-lgtm",
+  "hubot-nomulish",
   "hubot-omikuji",
   "hubot-pr-fc",
-  "hubot-sakagemc",
-  "hubot-nomulish"
+  "hubot-sakagemc"
 ]
