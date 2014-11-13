@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "A Hubot for FaithCreates Inc.",
   "scripts": {
-    "start": "hubot -n sushi -a slack -r ./node_modules/hubot/src/scripts/",
+    "start": "hubot -n sushi -a slack",
     "test": "mocha --recursive --compilers coffee:coffee-script/register --reporter spec"
   },
   "repository": {
@@ -19,7 +19,8 @@
   "license": "MIT",
   "dependencies": {
     "coffee-script": "1.7.1",
-    "hubot": "2.7.5",
+    "hubot": "2.9.3",
+    "hubot-auth": "^1.1.2",
     "hubot-backlog-activity": "git://github.com/bouzuya/hubot-backlog-activity.git#2.0.4",
     "hubot-backlog-assign": "https://github.com/bouzuya/hubot-backlog-assign/archive/1.0.1.tar.gz",
     "hubot-backlog-burndownchart": "git://github.com/bouzuya/hubot-backlog-burndownchart.git#1.0.2",
@@ -28,15 +29,17 @@
     "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#0.1.0",
     "hubot-backlog-summary": "git://github.com/bouzuya/hubot-backlog-summary.git#0.1.2",
     "hubot-backlog-watch-users": "git://github.com/bouzuya/hubot-backlog-watch-users.git#1.1.0",
+    "hubot-diagnostics": "0.0.1",
     "hubot-gengo": "git://github.com/bouzuya/hubot-gengo.git#0.1.1",
+    "hubot-google-images": "^0.1.0",
+    "hubot-help": "^0.1.1",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm.git#0.1.0",
-    "hubot-list-pr": "git://github.com/bouzuya/hubot-list-pr.git#0.1.3",
-    "hubot-merge-pr": "git://github.com/bouzuya/hubot-merge-pr.git#0.2.1",
+    "hubot-nomulish": "git://github.com/emanon001/hubot-nomulish.git#0.1.1",
     "hubot-omikuji": "git://github.com/bouzuya/hubot-omikuji.git#0.1.0",
     "hubot-pr-fc": "https://github.com/bouzuya/hubot-pr-fc/archive/3.0.1.tar.gz",
+    "hubot-redis-brain": "0.0.2",
     "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc.git#0.2.1",
-    "hubot-nomulish": "git://github.com/emanon001/hubot-nomulish.git#0.1.1",
-    "hubot-slack": "2.1.0"
+    "hubot-slack": "2.2.0"
   },
   "devDependencies": {
     "chai": "1.9.1",

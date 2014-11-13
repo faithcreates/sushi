@@ -7,12 +7,13 @@
   "hubot-backlog-status",
   "hubot-backlog-summary",
   "hubot-backlog-watch-users",
+  "hubot-diagnostics",
   "hubot-gengo",
+  "hubot-google-images",
+  "hubot-help",
   "hubot-lgtm",
-  "hubot-list-pr",
-  "hubot-merge-pr",
+  "hubot-nomulish",
   "hubot-omikuji",
   "hubot-pr-fc",
-  "hubot-sakagemc",
-  "hubot-nomulish"
+  "hubot-sakagemc"
 ]
