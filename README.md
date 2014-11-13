@@ -77,9 +77,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ REDIS_URL='...'
 
     $ # for hubot-sakagemc
-    $ HUBOT_SAKAGEMC_FLICKR_API_KEY='...'
-    $ HUBOT_SAKAGEMC_FLICKR_SECRET='...'
-    $ HUBOT_SAKAGEMC_ID='90569826@N04'
 
     $ # for hubot-slack
     $ HUBOT_SLACK_BOTNAME='sushi'
