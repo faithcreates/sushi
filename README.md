@@ -73,15 +73,15 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ HUBOT_PR_TIMEOUT='300000'
     $ HUBOT_PR_TOKEN='...'
 
-    $ # for hubot-redis-brain
-    $ REDIS_URL='...'
-
     $ # for hubot-sakagemc
 
     $ # for hubot-slack
     $ HUBOT_SLACK_BOTNAME='sushi'
     $ HUBOT_SLACK_TEAM='faithcreates'
     $ HUBOT_SLACK_TOKEN='...'
+
+    $ # for mongolab-brain.coffee
+    $ MONGOLAB_URL='...'
 
 [hubot]: https://hubot.github.com/
 [faithcreates]: http://www.faithcreates.co.jp/
