@@ -37,7 +37,7 @@
     "hubot-omikuji": "git://github.com/bouzuya/hubot-omikuji.git#0.1.0",
     "hubot-pr-fc": "https://github.com/bouzuya/hubot-pr-fc/archive/3.0.1.tar.gz",
     "hubot-sakagemc": "git://github.com/bouzuya/hubot-sakagemc.git#0.2.1",
-    "hubot-slack": "2.1.0"
+    "hubot-slack": "2.2.0"
   },
   "devDependencies": {
     "chai": "1.9.1",
