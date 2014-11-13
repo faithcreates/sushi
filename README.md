@@ -4,6 +4,9 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
 
 ## Configuration
 
+    $ # for hubot-auth
+    $ export HUBOT_AUTH_ADMIN='...'
+
     $ # for hubot-backlog-activity
     $ export HUBOT_BACKLOG_ACTIVITY_API_KEY='...'
     $ export HUBOT_BACKLOG_ACTIVITY_INTERVAL='5000'
