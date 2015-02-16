@@ -15,6 +15,7 @@
     "hubot-backlog-status": "git://github.com/bouzuya/hubot-backlog-status.git#0.1.0",
     "hubot-backlog-summary": "git://github.com/bouzuya/hubot-backlog-summary.git#0.1.2",
     "hubot-backlog-watch-users": "git://github.com/bouzuya/hubot-backlog-watch-users.git#1.1.0",
+    "hubot-datadog-graph": "https://github.com/bouzuya/hubot-datadog-graph/archive/1.0.0.tar.gz",
     "hubot-diagnostics": "0.0.1",
     "hubot-elb": "https://github.com/bouzuya/hubot-elb/archive/1.0.0.tar.gz",
     "hubot-gengo": "git://github.com/bouzuya/hubot-gengo.git#0.1.1",
