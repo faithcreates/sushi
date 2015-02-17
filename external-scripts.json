@@ -8,6 +8,7 @@
   "hubot-backlog-status",
   "hubot-backlog-summary",
   "hubot-backlog-watch-users",
+  "hubot-datadog-graph",
   "hubot-diagnostics",
   "hubot-elb",
   "hubot-gengo",
