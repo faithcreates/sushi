@@ -15,11 +15,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ export HUBOT_BACKLOG_ACTIVITY_USER_MAPPINGS='{}'
     $ export HUBOT_BACKLOG_ACTIVITY_USE_SLACK='1'
 
-    $ # for hubot-backlog-assign
-    $ HUBOT_BACKLOG_ASSIGN_API_KEY='...'
-    $ HUBOT_BACKLOG_ASSIGN_SPACE_ID='...'
-    $ HUBOT_BACKLOG_ASSIGN_USER_NAMES='...'
-
     $ # for hubot-backlog-burndownchart
     $ HUBOT_BACKLOG_BURNDOWNCHART_API_KEY='...'
     $ HUBOT_BACKLOG_BURNDOWNCHART_PASSWORD='...'
