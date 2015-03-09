@@ -9,7 +9,6 @@
     "hubot-auth": "^1.1.2",
     "hubot-backlog-activity": "https://github.com/bouzuya/hubot-backlog-activity/archive/2.0.4.tar.gz",
     "hubot-backlog-burndownchart": "https://github.com/bouzuya/hubot-backlog-burndownchart/archive/1.0.2.tar.gz",
-    "hubot-backlog-issue-preview": "https://github.com/bouzuya/hubot-backlog-issue-preview/archive/2.0.1.tar.gz",
     "hubot-backlog-report": "https://github.com/bouzuya/hubot-backlog-report/archive/2.0.0.tar.gz",
     "hubot-backlog-status": "https://github.com/bouzuya/hubot-backlog-status/archive/0.1.0.tar.gz",
     "hubot-backlog-summary": "https://github.com/bouzuya/hubot-backlog-summary/archive/0.1.2.tar.gz",

@@ -22,10 +22,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ HUBOT_BACKLOG_BURNDOWNCHART_SPACE_ID='...'
     $ HUBOT_BACKLOG_BURNDOWNCHART_USERNAME='...'
 
-    $ # for hubot-backlog-issue-preview
-    $ HUBOT_BACKLOG_ISSUE_PREVIEW_API_KEY='...'
-    $ HUBOT_BACKLOG_ISSUE_PREVIEW_SPACE_ID='...'
-
     $ # for hubot-backlog-report
     $ HUBOT_BACKLOG_REPORT_API_KEY='...'
     $ HUBOT_BACKLOG_REPORT_SPACE_ID='...'
