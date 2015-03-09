@@ -11,6 +11,7 @@
   "hubot-datadog-graph",
   "hubot-diagnostics",
   "hubot-elb",
+  "hubot-fgb",
   "hubot-gengo",
   "hubot-google-images",
   "hubot-help",
