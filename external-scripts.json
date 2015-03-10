@@ -1,9 +1,7 @@
 [
   "hubot-auth",
   "hubot-backlog-activity",
-  "hubot-backlog-assign",
   "hubot-backlog-burndownchart",
-  "hubot-backlog-issue-preview",
   "hubot-backlog-report",
   "hubot-backlog-status",
   "hubot-backlog-summary",
@@ -11,6 +9,7 @@
   "hubot-datadog-graph",
   "hubot-diagnostics",
   "hubot-elb",
+  "hubot-fgb",
   "hubot-gengo",
   "hubot-google-images",
   "hubot-help",
