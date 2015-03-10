@@ -1,6 +1,5 @@
 [
   "hubot-auth",
-  "hubot-backlog-activity",
   "hubot-backlog-burndownchart",
   "hubot-backlog-report",
   "hubot-backlog-status",
