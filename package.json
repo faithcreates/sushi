@@ -15,7 +15,7 @@
     "hubot-datadog-graph": "https://github.com/bouzuya/hubot-datadog-graph/archive/2.0.0.tar.gz",
     "hubot-diagnostics": "0.0.1",
     "hubot-elb": "https://github.com/bouzuya/hubot-elb/archive/1.0.0.tar.gz",
-    "hubot-fgb": "https://github.com/faithcreates-tuesday/hubot-fgb/archive/0.2.2.tar.gz",
+    "hubot-fgb": "https://github.com/faithcreates-tuesday/hubot-fgb/archive/0.3.0.tar.gz",
     "hubot-gengo": "https://github.com/bouzuya/hubot-gengo/archive/0.1.1.tar.gz",
     "hubot-google-images": "^0.1.0",
     "hubot-help": "^0.1.1",
