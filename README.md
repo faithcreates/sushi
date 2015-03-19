@@ -59,6 +59,11 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
 
     $ # for hubot-help
 
+    $ # for hubot-idcf-vm
+    $ HUBOT_IDCF_VM_ENDPOINT
+    $ HUBOT_IDCF_VM_API_KEY
+    $ HUBOT_IDCF_VM_SECRET_KEY
+
     $ # for hubot-lgtm
 
     $ # for hubot-nomulish
