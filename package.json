@@ -20,6 +20,7 @@
     "hubot-google-images": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-idcf-vm": "https://github.com/bouzuya/hubot-idcf-vm/archive/1.0.0.tar.gz",
+    "hubot-idcf-vm-auto-stop": "https://github.com/bouzuya/hubot-idcf-vm-auto-stop/archive/1.0.0.tar.gz",
     "hubot-lgtm": "https://github.com/bouzuya/hubot-lgtm/archive/0.1.0.tar.gz",
     "hubot-nomulish": "https://github.com/emanon001/hubot-nomulish/archive/0.1.1.tar.gz",
     "hubot-omikuji": "https://github.com/bouzuya/hubot-omikuji/archive/0.1.0.tar.gz",
