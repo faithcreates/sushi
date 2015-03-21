@@ -13,6 +13,7 @@
   "hubot-google-images",
   "hubot-help",
   "hubot-idcf-vm",
+  "hubot-idcf-vm-auto-stop",
   "hubot-lgtm",
   "hubot-nomulish",
   "hubot-omikuji",
