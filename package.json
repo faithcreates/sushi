@@ -12,6 +12,7 @@
     "hubot-backlog-status": "https://github.com/bouzuya/hubot-backlog-status/archive/0.1.0.tar.gz",
     "hubot-backlog-summary": "https://github.com/bouzuya/hubot-backlog-summary/archive/0.1.2.tar.gz",
     "hubot-backlog-watch-users": "https://github.com/bouzuya/hubot-backlog-watch-users/archive/1.1.0.tar.gz",
+    "hubot-create-github-repos": "https://github.com/bouzuya/hubot-create-github-repos/archive/1.1.0.tar.gz",
     "hubot-datadog-graph": "https://github.com/bouzuya/hubot-datadog-graph/archive/2.0.0.tar.gz",
     "hubot-diagnostics": "0.0.1",
     "hubot-elb": "https://github.com/bouzuya/hubot-elb/archive/1.0.0.tar.gz",

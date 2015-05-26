@@ -5,6 +5,7 @@
   "hubot-backlog-status",
   "hubot-backlog-summary",
   "hubot-backlog-watch-users",
+  "hubot-create-github-repos",
   "hubot-datadog-graph",
   "hubot-diagnostics",
   "hubot-elb",
