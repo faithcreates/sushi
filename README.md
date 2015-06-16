@@ -93,5 +93,10 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for mongolab-brain.coffee
     $ MONGOLAB_URL='...'
 
+    $ # for hubot-ec2-vm-scheduler
+    $ HUBOT_EC2_VM_SCHEDULER_ROOM
+    $ HUBOT_EC2_VM_SCHEDULER_ACCESS_KEY_ID
+    $ HUBOT_EC2_VM_SCHEDULER_SECRET_ACCESS_KEY
+
 [hubot]: https://hubot.github.com/
 [faithcreates]: http://www.faithcreates.co.jp/

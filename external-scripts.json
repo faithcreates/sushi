@@ -1,6 +1,7 @@
 [
   "hubot-auth",
   "hubot-backlog-burndownchart",
+  "hubot-ec2-vm-scheduler",
   "hubot-backlog-report",
   "hubot-backlog-status",
   "hubot-backlog-summary",
