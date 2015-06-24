@@ -70,11 +70,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for hubot-omikuji
     $ HUBOT_OMIKUJI_INITIAL_DATA='...'
 
-    $ # for hubot-pr-fc
-    $ HUBOT_PR_DEFAULT_USERNAME='faithcreates'
-    $ HUBOT_PR_TIMEOUT='300000'
-    $ HUBOT_PR_TOKEN='...'
-
     $ # for hubot-sakagemc
 
     $ # for hubot-slack
