@@ -7,14 +7,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for hubot-auth
     $ export HUBOT_AUTH_ADMIN='...'
 
-    $ # for hubot-backlog-activity
-    $ export HUBOT_BACKLOG_ACTIVITY_API_KEY='...'
-    $ export HUBOT_BACKLOG_ACTIVITY_INTERVAL='5000'
-    $ export HUBOT_BACKLOG_ACTIVITY_MAPPINGS='...'
-    $ export HUBOT_BACKLOG_ACTIVITY_SPACE_ID='...'
-    $ export HUBOT_BACKLOG_ACTIVITY_USER_MAPPINGS='{}'
-    $ export HUBOT_BACKLOG_ACTIVITY_USE_SLACK='1'
-
     $ # for hubot-backlog-burndownchart
     $ HUBOT_BACKLOG_BURNDOWNCHART_API_KEY='...'
     $ HUBOT_BACKLOG_BURNDOWNCHART_PASSWORD='...'
