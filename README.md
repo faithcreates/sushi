@@ -7,14 +7,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for hubot-auth
     $ export HUBOT_AUTH_ADMIN='...'
 
-    $ # for hubot-backlog-activity
-    $ export HUBOT_BACKLOG_ACTIVITY_API_KEY='...'
-    $ export HUBOT_BACKLOG_ACTIVITY_INTERVAL='5000'
-    $ export HUBOT_BACKLOG_ACTIVITY_MAPPINGS='...'
-    $ export HUBOT_BACKLOG_ACTIVITY_SPACE_ID='...'
-    $ export HUBOT_BACKLOG_ACTIVITY_USER_MAPPINGS='{}'
-    $ export HUBOT_BACKLOG_ACTIVITY_USE_SLACK='1'
-
     $ # for hubot-backlog-burndownchart
     $ HUBOT_BACKLOG_BURNDOWNCHART_API_KEY='...'
     $ HUBOT_BACKLOG_BURNDOWNCHART_PASSWORD='...'
@@ -47,9 +39,10 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for hubot-diagnostics
 
     $ # for hubot-fgb
+    $ HUBOT_FGB_BACKLOG_API_KEY='...'
     $ HUBOT_FGB_BACKLOG_SPACE_ID='...'
     $ HUBOT_FGB_BACKLOG_USERNAME='...'
-    $ HUBOT_FGB_BACKLOG_API_KEY='...'
+    $ HUBOT_FGB_GITHUB_TOKEN='...'
     $ HUBOT_FGB_PROJECTS='...'
     $ HUBOT_FGB_USERS='...'
 
@@ -77,11 +70,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
 
     $ # for hubot-omikuji
     $ HUBOT_OMIKUJI_INITIAL_DATA='...'
-
-    $ # for hubot-pr-fc
-    $ HUBOT_PR_DEFAULT_USERNAME='faithcreates'
-    $ HUBOT_PR_TIMEOUT='300000'
-    $ HUBOT_PR_TOKEN='...'
 
     $ # for hubot-sakagemc
 
