@@ -39,9 +39,10 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for hubot-diagnostics
 
     $ # for hubot-fgb
+    $ HUBOT_FGB_BACKLOG_API_KEY='...'
     $ HUBOT_FGB_BACKLOG_SPACE_ID='...'
     $ HUBOT_FGB_BACKLOG_USERNAME='...'
-    $ HUBOT_FGB_BACKLOG_API_KEY='...'
+    $ HUBOT_FGB_GITHUB_TOKEN='...'
     $ HUBOT_FGB_PROJECTS='...'
     $ HUBOT_FGB_USERS='...'
 
