@@ -7,6 +7,11 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for hubot-auth
     $ export HUBOT_AUTH_ADMIN='...'
 
+    $ export HUBOT_AUTH_FC_ACCESS_KEY_ID='...'
+    $ export HUBOT_AUTH_FC_SECRET_ACCESS_KEY='...'
+    $ export HUBOT_AUTH_FC_BUCKET='...'
+    $ export HUBOT_AUTH_FC_KEY='...'
+
     $ # for hubot-backlog-burndownchart
     $ HUBOT_BACKLOG_BURNDOWNCHART_API_KEY='...'
     $ HUBOT_BACKLOG_BURNDOWNCHART_PASSWORD='...'
