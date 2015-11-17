@@ -48,6 +48,7 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ HUBOT_FGB_BACKLOG_SPACE_ID='...'
     $ HUBOT_FGB_BACKLOG_USERNAME='...'
     $ HUBOT_FGB_GITHUB_TOKEN='...'
+    $ HUBOT_FGB_GITHUB_USERS='...'
     $ HUBOT_FGB_PROJECTS='...'
     $ HUBOT_FGB_USERS='...'
 
