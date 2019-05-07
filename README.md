@@ -7,6 +7,7 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ # for hubot-auth
     $ export HUBOT_AUTH_ADMIN='...'
 
+    $ # for hubot-auth-fc
     $ export HUBOT_AUTH_FC_ACCESS_KEY_ID='...'
     $ export HUBOT_AUTH_FC_SECRET_ACCESS_KEY='...'
     $ export HUBOT_AUTH_FC_BUCKET='...'
@@ -62,13 +63,6 @@ A [Hubot][hubot] for [FaithCreates Inc][faithcreates].
     $ HUBOT_IDCF_VM_ENDPOINT
     $ HUBOT_IDCF_VM_API_KEY
     $ HUBOT_IDCF_VM_SECRET_KEY
-
-    $ # for hubot-idcf-vm-auto-stop
-    $ HUBOT_IDCF_VM_AUTO_STOP_API_KEY
-    $ HUBOT_IDCF_VM_AUTO_STOP_CRON
-    $ HUBOT_IDCF_VM_AUTO_STOP_ENDPOINT
-    $ HUBOT_IDCF_VM_AUTO_STOP_ROOM
-    $ HUBOT_IDCF_VM_AUTO_STOP_SECRET_KEY
 
     $ # for hubot-lgtm
 
